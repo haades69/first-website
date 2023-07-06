@@ -120,3 +120,38 @@
     padding-top: 20px;
     color: aliceblue;
 }
+.zz{
+    height: 200px;
+    width: 200px;
+}
+.logo{
+    height: 40px;
+    width: 180px;
+}
+.final-cont{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: aliceblue;
+    background-color: black;
+}
+.zz{
+    padding-top: 25px;
+    text-align: justify;
+
+}
+.Ul{
+    padding: 5px;
+}
+.sup{
+    padding: 5px;
+}
+.vv{
+    margin-bottom: 50px;
+}
+#ft{
+    background: #000;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 30px;
+}
