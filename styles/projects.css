@@ -142,9 +142,11 @@
 }
 .Ul{
     padding: 5px;
+    cursor: pointer;
 }
 .sup{
     padding: 5px;
+    cursor: pointer;
 }
 .vv{
     margin-bottom: 50px;
@@ -155,3 +157,5 @@
     text-align: center;
     padding-top: 30px;
 }
+.Ul:hover{color: blueviolet;}
+.sup:hover{color: blueviolet;}
