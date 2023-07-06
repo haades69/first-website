@@ -5,3 +5,26 @@
 .gg{
     cursor: all-scroll;    
 }
+.cont{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.box{
+    padding: 20px;
+    background-color: aquamarine;
+    width: 150px;
+    /* height: 110px; */
+}
+.box2{
+    background-color: bisque;
+    width: 200px;
+}
+.box3{
+    background-color: blueviolet;
+    width: 500px;
+}
+.box4{
+    background-color: burlywood;
+}
