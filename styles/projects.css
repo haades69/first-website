@@ -38,8 +38,22 @@
 .banner-txt{
     /* margin:50px; */
 }
-a{
+.aa{
 
     font-size: 55px;
     font-weight: bolder;
 }
+#bb{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.btn{
+    padding: 10px 20px;
+    background-color: brown;
+    color: aliceblue;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+}
+.btn:hover{color: rgb(101, 126, 167);}
