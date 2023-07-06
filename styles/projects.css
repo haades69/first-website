@@ -57,3 +57,66 @@
     cursor: pointer;
 }
 .btn:hover{color: rgb(101, 126, 167);}
+.gg{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 18px;
+}
+.container{
+    display: flex;
+    padding: 15px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.rr{
+    font-size: 25px;
+}
+.qq{
+    margin: 10px 0px;
+    font-size: 20px;
+}
+#oo{
+    height: 400px;
+    width: 300px;
+}
+.imgs{
+    height: 55px;
+    width: 55px;
+    justify-content: center;
+    padding-top: 10px;
+    /* margin-top: 8px; */
+
+}
+.box{
+    height: 260px;
+    width: 240px;
+    box-shadow: 4px 4px 15px rgb(164, 149, 149);
+    margin: 20px;
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    font-size: 18px;
+}
+.wd{
+    padding: 5px;
+}
+.text{
+    padding: 5px;
+}
+.btm{
+    background-color: gray;
+    margin-top: 8px;
+}
+.section-cont{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: rgb(10, 8, 8);
+    padding:30px ;
+}
+.gt{
+    background-color: rgb(10, 8, 8);
+    padding-top: 20px;
+    color: aliceblue;
+}
